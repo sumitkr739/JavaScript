@@ -1,2 +1,2 @@
-# JS-Chai-Or-Code
+# JavaScript
 Here i will upload all learnings about java script
